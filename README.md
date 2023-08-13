@@ -1,4 +1,4 @@
-https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
+
 <h1 align="center">Hi 👋, I'm Ceyhun KAYA</h1>
 <h3 align="center">A passionate Python and SWİFT developer from TURKEY</h3>
 
